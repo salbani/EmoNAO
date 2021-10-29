@@ -22,4 +22,4 @@ It is heavily recommended to run this on Python 3.6 or above. Be aware, the vers
 
 ## Run
 
-Just run emo_bot.py!
+Execute SimSpark and then run emo_bot.py!
